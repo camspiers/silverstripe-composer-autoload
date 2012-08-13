@@ -1,5 +1,5 @@
 {
-    "name": "camspiers/_composer-autoload",
+    "name": "camspiers/autoloader-composer-silverstripe",
     "type": "silverstripe-module",
     "license": "MIT",
     "homepage": "http://github.com/camspiers/silverstripe-composer-autoload",
