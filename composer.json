@@ -2,6 +2,7 @@
     "name": "camspiers/_composer-autoload",
     "type": "silverstripe-module",
     "license": "MIT",
+    "homepage": "http://github.com/camspiers/silverstripe-composer-autoload",
     "keywords": [
         "silverstripe", "autoload"
     ],
@@ -12,6 +13,7 @@
         }
     ],
     "require": {
+        "php": ">=5.3.0",
         "composer/installers": "*"
     },
     "minimum-stability": "dev"
